@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+  }
+
+  .box-one {
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+    border: 20px solid rgb(255, 0, 0);
+    margin: 20px;
+  } 
+  
+  .box-two {
+    background-color: blue;
+    border: 0 solid yellow;
+  } 
